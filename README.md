@@ -1,5 +1,5 @@
-#Video Player App Documentation
-##App Architecture
+**Video Player App Documentation**
+**App Architecture**
 
 The Video Player App follows a modular and organized architecture. The project is structured into several directories to maintain clean code and separate concerns. Here's an overview of the key components:
 
